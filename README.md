@@ -1,2 +1,2 @@
 # EjercicioGit
-Programa básico de Java con dos linas de visualización.
+Programa básico de Java con dos lineas de visualización.
